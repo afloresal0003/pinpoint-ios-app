@@ -2,6 +2,9 @@
 
 PinPoint is a full-featured iOS mobile application that allows users to seamlessly manage social groups, share locations, view activity feeds, and interact through an intuitive interface. The app was developed as a group project using SwiftUI and Firebase, with each team member owning specific features. My primary contributions include the Activity Feed module, cross-tab post navigation, real-time synchronization, and UI enhancements for group management.
 
+## 📹 Group Demo
+- Link to group introduction and app demo: https://www.youtube.com/watch?v=3lsWDmgRwEQ
+
 ## 🔑 Key Features
 
 - **User Authentication**
